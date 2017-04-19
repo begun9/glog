@@ -1,0 +1,52 @@
+* {
+	font-family: lucida Sans, Arial, Helvetica, Sans-serif;
+	link: black;
+}
+.index {
+    width: 1000px; margin: 0px auto;
+}
+.admin{
+	border-spacing:0px;
+}
+.admin td{
+	border: 1px solid black;
+	
+
+}
+ header.mainH {
+    webkit-border-radius: 6px; 
+    moz-border-radius: 6px; 
+    border-radius: 6px;
+    webkit-box-shadow: 0 3px 5px 0 #AA4400; 
+    moz-box-shadow: 0 3px 5px 0 #AA4400; 
+    box-shadow: 0 3px 5px 0 #AA4400;
+    padding: 5px;
+    text-align: center;
+}
+.navigation li {
+	display: inline-block;
+	padding: 13px;
+	margin: 0px;
+	margin-left: -.36em;
+}
+.navigation {
+	background: #82E663;
+	border-radius: 8px; 
+}
+.soob {
+	background: #f0f0f0;
+	border-radius: 8px;
+	padding-left: 5px; 
+}
+a {
+	text-decoration: none;
+}
+
+   table { 
+    width: 100%; /* Ўирина таблицы */
+    border-spacing: 0; /* –ассто€ние между €чейками */
+   }
+   tr:nth-child(2n) {
+    background: #f0f0f0; /* ÷вет фона */
+   } 
+  
